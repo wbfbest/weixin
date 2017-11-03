@@ -1,0 +1,140 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(242, 242, 242, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:375px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u151_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:376px;
+  height:604px;
+}
+#u151 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:44px;
+  width:375px;
+  height:603px;
+}
+#u151_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u152_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:376px;
+  height:45px;
+}
+#u152 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:44px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u152_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:371px;
+  word-wrap:break-word;
+}
+#u153_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:45px;
+  height:23px;
+}
+#u153 {
+  border-width:0px;
+  position:absolute;
+  left:15px;
+  top:11px;
+  width:44px;
+  height:22px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  text-align:center;
+}
+#u153_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:1px;
+  width:44px;
+  word-wrap:break-word;
+}
+#u153_ann {
+  border-width:0px;
+  position:absolute;
+  left:52px;
+  top:7px;
+  width:1px;
+  height:1px;
+}
+#u154_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:45px;
+  height:23px;
+}
+#u154 {
+  border-width:0px;
+  position:absolute;
+  left:316px;
+  top:11px;
+  width:44px;
+  height:22px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  text-align:center;
+}
+#u154_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:1px;
+  width:44px;
+  word-wrap:break-word;
+}
+#u154_ann {
+  border-width:0px;
+  position:absolute;
+  left:353px;
+  top:7px;
+  width:1px;
+  height:1px;
+}
